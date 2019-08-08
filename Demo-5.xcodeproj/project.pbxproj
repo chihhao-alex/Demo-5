@@ -13,6 +13,7 @@
 		1B7F412C22F85E890080FF21 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1B7F412A22F85E890080FF21 /* Main.storyboard */; };
 		1B7F412E22F85E8A0080FF21 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1B7F412D22F85E8A0080FF21 /* Assets.xcassets */; };
 		1B7F413122F85E8A0080FF21 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1B7F412F22F85E8A0080FF21 /* LaunchScreen.storyboard */; };
+		1B7F413922F85EE50080FF21 /* LoverTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B7F413822F85EE50080FF21 /* LoverTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		1B7F412D22F85E8A0080FF21 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1B7F413022F85E8A0080FF21 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1B7F413222F85E8A0080FF21 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1B7F413822F85EE50080FF21 /* LoverTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoverTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				1B7F412622F85E890080FF21 /* SceneDelegate.swift */,
 				1B7F412822F85E890080FF21 /* ViewController.swift */,
 				1B7F412A22F85E890080FF21 /* Main.storyboard */,
+				1B7F413822F85EE50080FF21 /* LoverTableViewController.swift */,
 				1B7F412D22F85E8A0080FF21 /* Assets.xcassets */,
 				1B7F412F22F85E8A0080FF21 /* LaunchScreen.storyboard */,
 				1B7F413222F85E8A0080FF21 /* Info.plist */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1B7F413922F85EE50080FF21 /* LoverTableViewController.swift in Sources */,
 				1B7F412922F85E890080FF21 /* ViewController.swift in Sources */,
 				1B7F412522F85E890080FF21 /* AppDelegate.swift in Sources */,
 				1B7F412722F85E890080FF21 /* SceneDelegate.swift in Sources */,
